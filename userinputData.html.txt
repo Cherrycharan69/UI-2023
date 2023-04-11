@@ -1,0 +1,13 @@
+<! DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+<form> 
+<input type="text" placeholders= "Enter User Name" Required />
+<input type="password" placeholders="password" />
+<p></p>
+</form>
+</body>
+</html>
